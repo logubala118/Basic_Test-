@@ -12,7 +12,7 @@ System.out.println(C);
 }
 public static void main(String[] args)
 {
-	MethodOverloading a =new MethodOverloading();
+	MethodOverloading a = new MethodOverloading();
 	a.vehicle();
 	a.vehicle('y');
 	
